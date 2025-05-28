@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Tokal-27
+/src/backend/database.py      @Tokal-27
+/src/backend/routers/auth.py  @Tokal-27
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Tokal-27
